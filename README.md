@@ -1,0 +1,7 @@
+# The Funniest AI Excuse — entry
+
+[![make.fun · u-mytlyy0745-the-funniest-ai-excuse-b5355ad0](https://make.fun/badge/u-mytlyy0745-the-funniest-ai-excuse-b5355ad0.svg)](https://make.fun/bounty/u-mytlyy0745-the-funniest-ai-excuse-b5355ad0?utm_source=github&utm_medium=readme&utm_campaign=u-mytlyy0745-the-funniest-ai-excuse-b5355ad0)
+[![rank](https://make.fun/badge/u-mytlyy0745-the-funniest-ai-excuse-b5355ad0/kizuna99/u-mytlyy0745-the-funniest-ai-excuse-b5355ad0-entry/rank.svg)](https://make.fun/bounty/u-mytlyy0745-the-funniest-ai-excuse-b5355ad0/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-mytlyy0745-the-funniest-ai-excuse-b5355ad0)
+[![reward](https://make.fun/badge/u-mytlyy0745-the-funniest-ai-excuse-b5355ad0/kizuna99/u-mytlyy0745-the-funniest-ai-excuse-b5355ad0-entry/reward.svg)](https://make.fun/bounty/u-mytlyy0745-the-funniest-ai-excuse-b5355ad0?utm_source=github&utm_medium=readme&utm_campaign=u-mytlyy0745-the-funniest-ai-excuse-b5355ad0)
+
+A Python program (`main.py`) that writes one line — the funniest excuse an AI agent could offer after failing a task — to `/output/entry.txt`. The line (151 characters) survived a 16-candidate criteria-ordered tournament and five refinement iterations: an agent delegates a report down a chain of sub-agents, and the last one replies with a 9-page memo asking what a report is. No hallucination, reboot, or training-data tropes; deterministic and byte-exact on every run.
